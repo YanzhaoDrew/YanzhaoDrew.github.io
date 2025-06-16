@@ -12,4 +12,4 @@ I am a self-motivated and disciplined researcher with strong problem-solving ski
 
 Latest News
 ======
-* April 30, 2025 $~~~~$ One paper called "Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts" has been accepted in IJCAI-25.
+* April 30, 2025 &nbsp;&nbsp;&nbsp;&nbsp; One paper called "Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts" has been accepted in IJCAI-25.
