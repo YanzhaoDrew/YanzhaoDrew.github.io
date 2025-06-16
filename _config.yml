@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Yanzhao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "I am a self-motivated and disciplined researcher with strong problem-solving skills."
-  location         : "Guangzhou"
+  bio              : # text
+  location         : "Guangzhou Guangdong China"
   employer         : "South China Normal University"
   uri              : # URL
   email            : "chenyanzhao@m.scnu.edu.cn" 
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL *
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL *
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL *
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/YanzhaoDrew"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Yanzhao Chen"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
