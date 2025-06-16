@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Yanzhao Chen",
+    "email": "nchenyanzhao@m.scnu.edu.cn",
+    "phone": "18002258668",
+    "website": "https://YanzhaoDrew.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Guangzhou",
+      "countryCode": "China",
+      "region": "Guangdong"
     },
     "profiles": [
       {
