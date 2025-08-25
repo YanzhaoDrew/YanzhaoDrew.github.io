@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2025-08-23-RLHF-number-5.md
 excerpt: "We improve human trajectory prediction by introducing Reinforcement Learning from Human Feedback (RLHF) and Rejection Sampling techniques."
 date: 2025-05-30
-venue: 'The 8th Chinese Conference on Pattern Recognition and Computer Vision.'
-paperurl: ''
+venue: 'The 8th Chinese Conference on Pattern Recognition and Computer Vision'
+paperurl: 'http://YanzhaoDrew.github.io/files/Boosting_PRCV_2025_CamReady.pdf'
 citation: 'Chenyou Fan, Kehui Tan, Yanzhao Chen, Tianqi Pang, Haiqi Jiang, Junjie Hu. Enhancing Human Trajectory Prediction with Reinforcement Learning from Quantified Human Preferences. In Chinese Conference on Pattern Recognition and Computer Vision, 2025.'
 ---
 
