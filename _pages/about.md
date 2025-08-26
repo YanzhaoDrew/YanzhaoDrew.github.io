@@ -14,4 +14,4 @@ Currently, I am seeking a **Ph.D. position** starting in Fall 2026. You can find
 
 Latest News
 ======
-* April 30, 2025 &nbsp;&nbsp;&nbsp;&nbsp; One paper called "Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts" has been accepted in IJCAI-25.
+* April 30, 2025 &nbsp;&nbsp;&nbsp;&nbsp; One paper called "Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts" has been accepted in IJCAI-25. [[Paper](../files/MoE_IJCAI_2025_Cam.pdf)]&nbsp;[[Poster](../files/FedMoE_poster.pdf)]&nbsp;[[Code](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)]
